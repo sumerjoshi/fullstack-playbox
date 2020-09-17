@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5893796-0065-4bce-a078-a3da5a965c1a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dynamic_programming/edit_distance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamic_programming/hamiltonian_cycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy_algorithms/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy_algorithms/activity_selection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy_algorithms/chapter_16/coin_change.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy_algorithms/chapter_16/huffman_encoding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greedy_algorithms/chapter_16/knapsacking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/effective_python/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph_algos/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph_algos/breadth_first_search.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/greedy_algorithms/chapter_16/coin_change.py" beforeDir="false" afterPath="$PROJECT_DIR$/greedy_algorithms/chapter_16/coin_change.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +18,8 @@
     <session id="975784933">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.27200" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.33" value="1" />
@@ -29,27 +27,27 @@
           <entry key="project.open.time.5827" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="22" />
+          <entry key="py" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="22" />
+          <entry key="Python" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="11674" />
+          <entry key="py" value="12238" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="11674" />
+          <entry key="Python" value="12238" />
         </counts>
       </usages-collector>
     </session>
@@ -59,7 +57,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/greedy_algorithms/activity_selection.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="533">
+            <state relative-caret-position="705">
               <caret line="47" selection-start-line="47" selection-end-line="47" />
               <folding>
                 <marker date="1598892200925" expanded="true" signature="946:1199" ph="..." />
@@ -84,22 +82,33 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/greedy_algorithms/chapter_16/huffman_encoding.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
+            <state relative-caret-position="1575">
+              <caret line="105" selection-start-line="105" selection-end-line="105" />
               <folding>
                 <marker date="1599503733193" expanded="true" signature="1039:1044" ph="..." />
                 <marker date="1599503733193" expanded="true" signature="1873:1878" ph="..." />
-                <marker date="1599503733193" expanded="true" signature="1878:2884" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/greedy_algorithms/chapter_16/coin_change.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+            <state relative-caret-position="600">
+              <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/graph_algos/breadth_first_search.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <marker date="1600321050910" expanded="true" signature="308:580" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -135,6 +144,8 @@
         <option value="$PROJECT_DIR$/greedy_algorithms/chapter_16/knapsacking.py" />
         <option value="$PROJECT_DIR$/greedy_algorithms/chapter_16/huffman_encoding.py" />
         <option value="$PROJECT_DIR$/greedy_algorithms/chapter_16/coin_change.py" />
+        <option value="$PROJECT_DIR$/graph_algos.py" />
+        <option value="$PROJECT_DIR$/graph_algos/breadth_first_search.py" />
       </list>
     </option>
   </component>
@@ -150,6 +161,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -160,12 +172,12 @@
             <path>
               <item name="python_problems" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_problems" type="462c0819:PsiDirectoryNode" />
-              <item name="binary_search_trees" type="462c0819:PsiDirectoryNode" />
+              <item name="effective_python" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_problems" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_problems" type="462c0819:PsiDirectoryNode" />
-              <item name="dynamic_programming" type="462c0819:PsiDirectoryNode" />
+              <item name="graph_algos" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_problems" type="b2602c69:ProjectViewProjectNode" />
@@ -176,7 +188,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -200,7 +211,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.huffman_encoding">
+  <component name="RunManager" selected="Python.breadth_first_search">
+    <configuration name="breadth_first_search" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_problems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/graph_algos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graph_algos/breadth_first_search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="coin_change" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_problems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/greedy_algorithms/chapter_16" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/greedy_algorithms/chapter_16/coin_change.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="huffman_encoding" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,27 +267,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/greedy_algorithms/chapter_16/huffman_encoding.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="inorder_traveral_non_recursive" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_problems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/binary_search_trees" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binary_search_trees/inorder_traveral_non_recursive.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -286,17 +318,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.inorder_traveral_non_recursive" />
       <item itemvalue="Python.lcs_length" />
       <item itemvalue="Python.lis" />
       <item itemvalue="Python.huffman_encoding" />
+      <item itemvalue="Python.coin_change" />
+      <item itemvalue="Python.breadth_first_search" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.breadth_first_search" />
+        <item itemvalue="Python.coin_change" />
         <item itemvalue="Python.huffman_encoding" />
         <item itemvalue="Python.lis" />
         <item itemvalue="Python.lcs_length" />
-        <item itemvalue="Python.inorder_traveral_non_recursive" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +351,7 @@
     <frame x="93" y="23" width="1343" height="972" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31360492" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31821677" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -325,7 +359,7 @@
       <window_info id="Job Explorer" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3284091" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3284091" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -447,9 +481,10 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/graph_algos.py" />
     <entry file="file://$PROJECT_DIR$/greedy_algorithms/activity_selection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
+        <state relative-caret-position="705">
           <caret line="47" selection-start-line="47" selection-end-line="47" />
           <folding>
             <marker date="1598892200925" expanded="true" signature="946:1199" ph="..." />
@@ -470,20 +505,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/greedy_algorithms/chapter_16/huffman_encoding.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
+        <state relative-caret-position="1575">
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
           <folding>
             <marker date="1599503733193" expanded="true" signature="1039:1044" ph="..." />
             <marker date="1599503733193" expanded="true" signature="1873:1878" ph="..." />
-            <marker date="1599503733193" expanded="true" signature="1878:2884" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/greedy_algorithms/chapter_16/coin_change.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+        <state relative-caret-position="600">
+          <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/graph_algos/breadth_first_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <marker date="1600321050910" expanded="true" signature="308:580" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -35,3 +35,8 @@ coins = [9, 6, 5, 1]
 m = len(coins)
 V = 11
 print("Minimum coins required is", minCoins(coins, m, V))
+
+
+"""
+This is the Naive Solution 
+"""
